@@ -6,3 +6,9 @@ There are many different applications that provide the same functionality of boo
 
 Ideation and Low-Fidelity Prototyping-
 The best solution that we found is making an app that would serve the purpose of drawing a comparison between different apps in a single platform. We have prototyped an app named EasyWay which would draw a comparison on different bases like charges of the cab, reviews from the past customers, time taken by the cab to reach the location, mode of payment available. It will also include the feature to cancel the cab after booking.
+
+Figma Link for the Prototype:
+https://www.figma.com/proto/2eHBt0u4k3N5y6JQlVtAKZ/Untitled?node-id=21%3A49&scaling=scale-down&page-id=0%3A1
+
+Youtube Link for Demo:
+https://youtu.be/AxliRQZPlMw
